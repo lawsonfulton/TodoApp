@@ -1,5 +1,5 @@
 # Simple Todo App with editing
---
+-
 
 This is a simple todo app to satisfy the codepath android bootcamp pre-work requirements. See [this guide](http://courses.codepath.com/snippets/intro_to_android/prework) for a step-by-step tutorial.
 
@@ -11,4 +11,5 @@ Completed user stories:
 - [x] Items persist when the app is closed and reopened
 
 Walkthrough of functionality:
+
 ![Walkthrough](https://raw.githubusercontent.com/zero-impact/TodoApp/master/walkthrough.gif)
