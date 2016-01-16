@@ -2,7 +2,7 @@
 
 This is a simple todo app to satisfy the codepath android bootcamp pre-work requirements. See [this guide](http://courses.codepath.com/snippets/intro_to_android/prework) for a step-by-step tutorial.
 
-Time spent: 2.5 hours spent in total
+Time spent: 3 hours spent in total
 
 Completed user stories:
 - [x] User can successfully add and remove items from the todo list
