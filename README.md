@@ -11,4 +11,4 @@ Completed user stories:
 - [x] Items persist when the app is closed and reopened
 
 Walkthrough of functionality:
-![Walkthrough](/../master/walkthrough.gif?raw=true)
+![Walkthrough](https://raw.githubusercontent.com/zero-impact/TodoApp/master/walkthrough.gif)
